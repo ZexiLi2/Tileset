@@ -1,0 +1,147 @@
+﻿  Tailset.cpp
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,67): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,67): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,67): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,67): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,67): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,51): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,51): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,51): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(35,51): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,73): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,73): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,73): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,73): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,57): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,57): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,57): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(36,57): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,79): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,79): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,79): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,79): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,79): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,57): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,57): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,57): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,57): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(37,57): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,73): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,73): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,73): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,73): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,73): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,51): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,51): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,51): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,51): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(38,51): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,70): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(41,53): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,76): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(42,59): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,82): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(43,59): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,76): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:         with
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:             T=unsigned int
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:         ]
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:         and
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:         [
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:             T=float
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\TileMap.h(44,53): warning C4244:         ]
+  (compilando archivo de origen "Tailset.cpp")
+  
+E:\AluCiclesGS2\Zexi\m17\Tailset\Tailset\Tailset.cpp(30,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Tailset.vcxproj -> E:\AluCiclesGS2\Zexi\m17\Tailset\x64\Debug\Tailset.exe

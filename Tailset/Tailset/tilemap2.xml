@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TileMap width="16" height="10">
+    <Row>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="1"/>
+        <Tile index="3"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="1"/>
+        <Tile index="3"/>
+        <Tile index="3"/>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="4"/>
+        <Tile index="7"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+        <Tile index="8"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="0"/>
+        <Tile index="1"/>
+        <Tile index="7"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+        <Tile index="10"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="5"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="0"/>
+        <Tile index="1"/>
+        <Tile index="5"/>
+        <Tile index="1"/>
+        <Tile index="4"/>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="5"/>
+        <Tile index="1"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="5"/>
+        <Tile index="1"/>
+        <Tile index="3"/>
+        <Tile index="1"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="1"/>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="5"/>
+        <Tile index="4"/>
+        <Tile index="11"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="5"/>
+        <Tile index="1"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="3"/>
+        <Tile index="1"/>
+        <Tile index="9"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+        <Tile index="6"/>
+    </Row>
+    <Row>
+        <Tile index="3"/>
+        <Tile index="7"/>
+        <Tile index="10"/>
+        <Tile index="1"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="1"/>
+        <Tile index="3"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="3"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="4"/>
+        <Tile index="5"/>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="2"/>
+        <Tile index="12"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="1"/>
+        <Tile index="5"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="4"/>
+        <Tile index="1"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="2"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+    </Row>
+    <Row>
+        <Tile index="6"/>
+        <Tile index="10"/>
+        <Tile index="1"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="4"/>
+        <Tile index="2"/>
+        <Tile index="12"/>
+        <Tile index="1"/>
+        <Tile index="1"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+        <Tile index="0"/>
+    </Row>
+</TileMap>
